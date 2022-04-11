@@ -31,4 +31,4 @@
 - Python
 - Pandas
 - Matplotlib
-- math 
+- Seaborn 
