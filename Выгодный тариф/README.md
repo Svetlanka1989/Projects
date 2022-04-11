@@ -40,10 +40,10 @@
 - Python 
 - Pandas
 - Matplotlib
-- numpy
+- Numpy
 - SciPy
 - math
 - Seaborn
-- sklearn
+- SciKitLearn
 
 
