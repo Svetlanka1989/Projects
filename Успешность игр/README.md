@@ -22,7 +22,7 @@
 ## Используемые библиотеки:
 - Python
 - Pandas
-- numpy
+- Numpy
 - Matplotlib
 - Seaborn
 - SciPy
