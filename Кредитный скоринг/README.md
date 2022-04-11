@@ -26,9 +26,5 @@
 - Python
 - Pandas
 - PyMystem3
-- SciPy
-- Matplotlib
-- Seaborn
-- SciKitLearn
-- numpy
+
 
