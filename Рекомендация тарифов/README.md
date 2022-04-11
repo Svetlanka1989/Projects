@@ -15,7 +15,15 @@
 
 
 ## Используемые библиотеки:
--pandas
+- Python
+- Pandas
+- Matplotlib
+- numpy
+- SciPy
+- math
+- Seaborn
+- sklearn
+
 
 
 
