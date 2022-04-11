@@ -18,11 +18,10 @@
 - Python
 - Pandas
 - Matplotlib
-- numpy
+- Тumpy
 - SciPy
-- math
 - Seaborn
-- sklearn
+- SciKitLearn
 
 
 
