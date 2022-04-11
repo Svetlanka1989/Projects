@@ -17,10 +17,6 @@
 ## Используемые библиотеки:
 - Python
 - Pandas
-- Matplotlib
-- Тumpy
-- SciPy
-- Seaborn
 - SciKitLearn
 
 
