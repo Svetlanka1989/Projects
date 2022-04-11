@@ -26,5 +26,5 @@
 - Matplotlib
 - Numpy
 - Scipy
-- Sklearn
+- SciKitLearn
 
