@@ -42,8 +42,6 @@
 - Matplotlib
 - Numpy
 - SciPy
-- math
 - Seaborn
-- SciKitLearn
 
 
