@@ -12,9 +12,14 @@
 
 
 ## Используемые библиотеки:
+
 - Python
 - Pandas
-- PyMystem3
+- Seaborn
+- Matplotlib
+- Numpy
+- SciPy
+- SciKitLearn
 
 
 
