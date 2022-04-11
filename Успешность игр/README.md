@@ -25,4 +25,3 @@
 - Numpy
 - Matplotlib
 - Seaborn
-- SciPy
